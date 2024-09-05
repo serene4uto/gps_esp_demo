@@ -1,0 +1,5 @@
+repositories:
+  rtcm_msgs:
+    type: git
+    url: https://github.com/Zeki411/rtcm_msgs.git
+    version: ros2
